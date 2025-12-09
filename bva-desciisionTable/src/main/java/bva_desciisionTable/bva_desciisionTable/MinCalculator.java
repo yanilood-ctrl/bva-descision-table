@@ -1,4 +1,4 @@
-package bva_desciisionTable.bva_desciisionTable;
+ package bva_desciisionTable.bva_desciisionTable;
 
 public class MinCalculator {
 

@@ -3,7 +3,7 @@ package bva_desciisionTable.bva_desciisionTable;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-public class BVAC {
+public class BVACTest {
 
     // c min-1 = 0 -> חריגה
     @Test
